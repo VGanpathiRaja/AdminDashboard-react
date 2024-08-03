@@ -1,0 +1,18 @@
+
+.Chart-part,.content-part{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: var(--box-color);
+}
+.chart-heading-part h1{
+    font-size: 18px;
+}
+.chart-heading-part button{
+    border-radius: 30px;
+}
+.chart-box img{
+    width: 100%;
+    height: 200px;
+}
+

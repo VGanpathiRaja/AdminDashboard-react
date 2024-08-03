@@ -1,0 +1,35 @@
+
+.count-box{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: var(--box-color);
+    height: 185px;
+    
+}
+.count-icon {
+    font-size: 30px;
+    padding: 15px 0px;
+    margin: 5px;
+    color: #4662ee;
+    background: #283469;
+    width: 60px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.count-box h4{
+    color: #fff;
+    font-size: 18px;
+    padding: 5px;
+}
+.count-value {
+    padding: 6px;
+}
+.count-value h1{
+    color: #fff;
+    font-size: 22px;
+}
+.count-value,.netvalue h5{
+    color: green;
+    font-size: 18px;
+}

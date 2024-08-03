@@ -1,0 +1,35 @@
+.order-table{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: var(--box-color);
+}
+.cust-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cust-img img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.order-table table th{
+    border-bottom: 1px solid #fff;
+}
+.order-table h1{
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+}
+.order-table table tr:nth-child(2) button {
+    background-color: #5f3138; 
+    border: 1px solid #5f3138;
+    color: #b80d23;  
+}
+.order-table table tr:nth-child(4) button {
+    background-color: #5f3138; 
+    border: 1px solid #5f3138;
+    color: #b80d23;  
+}
